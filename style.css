@@ -12,7 +12,7 @@ body {
 }
 
 .child {
-  background-color: tomato;
+  background-color: pink;
   color: white;
   font-size: 50px;
   display: flex;
